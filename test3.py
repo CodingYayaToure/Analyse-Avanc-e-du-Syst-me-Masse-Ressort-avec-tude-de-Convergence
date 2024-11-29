@@ -20,8 +20,8 @@ with col2:
 """
     ### Master 1 Calcul Scientifique et Modélisation | UE 4111 : Equations différentielles et algorithme sur les matricielles
     **Responsable de Formation** : Pr. Oumar Diop (oumar.diop@unchk.edu.sn)  
-    **Tuteur** : Dr. Cheikh Gueye (cheikh1.gueye@unchk.sn)  
-    **Étudiant** : Yaya Toure (yaya.toure@etu.unchk.sn)  
+    **Tuteur** : Dr. Cheikh Gueye (cheikh1.gueye@unchk.edu.sn)  
+    **Étudiant** : Yaya Toure (yaya.toure@unchk.edu.sn)  
     [LinkedIn](https://www.linkedin.com/in/yaya-toure-8251a4280/) | [GitHub](https://github.com/YAYATOURE)
     """)
 
